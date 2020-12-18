@@ -1,0 +1,7 @@
+body{height: 100%; width: 100%; margin: 0;}
+header{height: 15%; background-color: #CE0033;}
+header > .menu{display: flex; justify-content: space-evenly;}
+/*  VOIR SI METTRE DIV TITRE POUR PLACER UN JUSTIFY-CONTENT */ 
+header > .menu > h1{text-transform: uppercase; margin-left: 5%;}
+header > .menu > .btn{display: flex; justify-content: center; align-items: center; background-color: white; height: 10%; margin: auto; width: 10%;}
+header > .menu > p{}

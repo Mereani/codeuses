@@ -1,0 +1,5 @@
+.container{margin-top: 5%; margin-bottom: 5%;}
+.container > .blocTop{display: flex; justify-content: space-around;}
+.container > .blocTop > .contenu{}
+.container > .blocTop > .contenu > img{height: 150px;}
+.container > .blocTop > .contenu > a > h2{text-align: center;}
